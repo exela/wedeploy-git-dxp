@@ -4,8 +4,7 @@
 	"memory": 8192,	
 	"volumes": {
 		"data": "/usr/local/liferay/data",
-		"osgi": "/usr/local/liferay/osgi",
-		"deploy": "/usr/local/liferay/deploy"
+		"osgi": "/usr/local/liferay/osgi"
 	},
 	"port": 8080
 }
